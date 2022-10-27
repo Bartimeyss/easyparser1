@@ -16,3 +16,4 @@ for i in range(0, len(quotes)):
     for tagforquote in tagsforquote:
         print(tagforquote.text)
     print('\n')
+    
